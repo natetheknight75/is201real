@@ -1,0 +1,76 @@
+body {
+    background-image: url("https://www.google.com/search?q=white+background&rlz=1C1UEAD_enUS969US969&sxsrf=AOaemvLIiw_ZFBs9Nz9Wz8ZwmBoIj1khoA:1639720169985&tbm=isch&source=iu&ictx=1&fir=ylHAW5l3VajH1M%252CB3tCFT03B6J--M%252C_%253BJOQjRAN_RldDiM%252CpVedV4ePO_eFeM%252C_%253BBQFka4wyKwbHXM%252CN3oLSOOjQ9edRM%252C_%253BwEYu_VvrpmkSOM%252C3008ZxuB9E8N5M%252C_%253BYvlnpZERRjbTeM%252C4O2GvGuD-Cf09M%252C_%253BZUMYxIk4nY5oMM%252CkJCHVs23uYti-M%252C_%253BIfzjb8A4uge5rM%252CrdyeYCVO49b0JM%252C_%253BcEh4tmCo512OCM%252CaTXZ3jozptUtDM%252C_%253B_LIkMjpBsf1SPM%252C4EnS-kGGWCEqFM%252C_%253B8o0HYKrUxcGb-M%252CkJCHVs23uYti-M%252C_%253B8tpey1wAgMJx0M%252CMBH-NYxwhDLHZM%252C_%253BERGZRKMSyuvgrM%252CfftA_X0JnEvdRM%252C_%253B16EnU5hJAJ5pJM%252CkJCHVs23uYti-M%252C_%253BwvzTOtS3vWZ5FM%252CIqO5eFFLmF9TzM%252C_%253BvamcktIGkfBjzM%252C6APCafdexs8a-M%252C_%253B1sUxwWjEDfiDOM%252CU6s-kLKtFrDIJM%252C_&vet=1&usg=AI4_-kTd6BWwHgCpJ-FiepWHkLs26aViNg&sa=X&ved=2ahUKEwjI4ozSker0AhW6AZ0JHQRnDPYQ9QF6BAgJEAE#imgrc=JOQjRAN_RldDiM")
+}
+.myHeader{
+    left: 5px;
+    right: 5px;
+    top: 5px;
+    height: 55px;
+    border: 2px solid white;
+    background-color: red;
+}
+.myFooter {
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 60px;
+    border: 2px solid white;
+    background-color: red;
+}
+.myContent {
+    left: 10px;
+    right: 10px;
+    top: 62px;
+    bottom: 62px;
+    border: 2px solid white;
+    background-color: red;
+}
+.footcontent {
+    font-family: monospace;
+    color: white;
+}
+.headertext {
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 12pt;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.title {
+    font-family: monospace;
+    font-size: 55pt;
+    color: white;
+    text-decoration: underline;
+}
+a:link {
+    color: lightgray;
+}
+a:visited {
+    color: lightgray;
+}
+a:hover {
+    color: darkgray;
+}
+
+.leftgraph {
+    top: 72px;
+    left: 100px;
+    height: 400px;
+    width: 535px;
+    border: 2px white solid;
+    background-color: aliceblue;}
+
+.rightgraph {
+    top:72px;
+    right: 100px;
+    height: 400px;
+    width: 535px;
+    border: 2px white solid;
+    background-color: red;
+}
+h5 {
+    font-family: monospace;
+    font-size: 20pt;
+    color: white;
+}
